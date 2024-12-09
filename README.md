@@ -1,1 +1,1 @@
-# ML_practises
+# ML_practices
